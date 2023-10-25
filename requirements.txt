@@ -20,7 +20,6 @@ google-cloud-iam==2.12.2
 google-cloud-language==2.9.1
 google-cloud-resource-manager==1.10.4
 google-cloud-storage==2.8.0
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=d9791accf068ca2d187f74cda44a5f0ba5275952c5e7297f243362882fae155b
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.6.0
