@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d889b6a2-1716-46a9-aec6-3e219075e930/deploy-status)](https://app.netlify.com/sites/inquisitive-dragon-5565b6/deploys)
